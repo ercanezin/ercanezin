@@ -1,6 +1,6 @@
 Welcome to Dr Ercan Ezin's personal Github profile. Hopefully, you will get the information you need to know myself better. If not, please do not hesitate to get in touch from www.ercanezin.com . Cheers
 # 💫 About Me:
-🔭 I’m currently working on AI powered Booking Project<br>👯 I’m looking to collaborate on Open Source AI projects and Data Science projects<br>🌱 I’m currently learning to manage a team as an acting CTO.<br>💬 Ask me about Recommender Systems, Python and Data Science<br>⚡ Fun fact:<br> 1- I can make origami frogs that can fly. <br> 2- I have been promoted to make CTO level decisions in my current company. 3- Didn't know it is a roller coster to manage people at this level. 
+🔭 I’m currently working on AI powered Booking Project<br>👯 I’m looking to collaborate on Open Source AI projects and Data Science projects<br>🌱 I’m currently learning to manage a team as an acting CTO.<br>💬 Ask me about Recommender Systems, Python and Data Science<br> ⚡ Fun fact:<br> 1- I can make origami frogs that can fly. <br> 2- I have been promoted to make CTO level decisions in my current company.  <br>  3- Didn't know it is a roller coster to manage people at this level. 
 
 
 ## 🌐 Socials:
@@ -18,5 +18,4 @@ Welcome to Dr Ercan Ezin's personal Github profile. Hopefully, you will get the 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ercanezin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
