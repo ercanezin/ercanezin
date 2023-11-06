@@ -1,4 +1,4 @@
-Welcome to Dr Ercan Ezin's personal Github profile. Hopefully you will get the information you need to know myself better. IF not, please do not hesitate to get in touch.
+Welcome to Dr Ercan Ezin's personal Github profile. Hopefully, you will get the information you need to know myself better. If not, please do not hesitate to get in touch from www.ercanezin.com . Cheers
 # 💫 About Me:
 🔭 I’m currently working on AI powered Booking Project<br>👯 I’m looking to collaborate on Open Source AI projects and Data Science projects<br>🌱 I’m currently learning to manage a team as an acting CTO<br>💬 Ask me about<br>⚡ Fun fact
 
